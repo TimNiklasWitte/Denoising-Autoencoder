@@ -6,13 +6,13 @@
 
 ## Denoised images
 
-<img src="./plots/denoised images/0.png" width="300" height="100">
+<img src="./plots/denoised images/0.png" width="450" height="150">
 
-<img src="./plots/denoised images/1.png" width="300" height="100">
+<img src="./plots/denoised images/1.png" width="450" height="150">
 
-<img src="./plots/denoised images/2.png" width="300" height="100">
+<img src="./plots/denoised images/2.png" width="450" height="150">
 
-<img src="./plots/denoised images/3.png" width="300" height="100">
+<img src="./plots/denoised images/3.png" width="450" height="150">
 
 
 ## Denoised images while training
